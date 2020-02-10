@@ -64,5 +64,6 @@
             "problemMatcher": "$msCompile",
             "dependsOn": "clean"
         }
+ 
     ]
 }
