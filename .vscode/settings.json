@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/46df170e-95fb-4855-b235-afc9f7957b42/resourceGroups/books/providers/Microsoft.Web/sites/murayyan-api"
+}

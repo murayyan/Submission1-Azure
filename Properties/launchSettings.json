@@ -21,7 +21,7 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/books",
-      "applicationUrl": "https://api-murayyan.azurewebsites.net/",
+      "applicationUrl": "https://murayyan-api.azurewebsites.net/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

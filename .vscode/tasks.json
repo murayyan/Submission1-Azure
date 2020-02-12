@@ -1,6 +1,7 @@
 {
     "version": "2.0.0",
-    "tasks": [{
+    "tasks": [
+        {
             "label": "build",
             "command": "dotnet",
             "type": "process",
@@ -64,6 +65,5 @@
             "problemMatcher": "$msCompile",
             "dependsOn": "clean"
         }
- 
     ]
 }
